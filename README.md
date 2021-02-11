@@ -1,6 +1,10 @@
 # Seminar_Project_EE439
 This repository contains all my notebook files that are used for writing the research article. 
   
+  
+## StoryBoard on Two Plots (Good for Reviewing the Result)    
+[https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Storyboard%20EE439.pptx](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Storyboard%20EE439.pptx)  
+  
 ## List of Models  
   
 **1. Predictive Models on SET using technical indicators as features in form of Logistic Linear Regression and Decision Tree**  
