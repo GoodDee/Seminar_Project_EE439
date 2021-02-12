@@ -5,6 +5,13 @@ This repository contains all my notebook files that are used for writing the res
 ## StoryBoard on Two Plots (Good for Reviewing the Result)    
 [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Storyboard%20EE439.pptx](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Storyboard%20EE439.pptx)  
   
+  
+## Title  
+Evaluating the Role of Volatility in Predicting SET Index and Exploring Volatility Behavior From SET Index to Individual Stocks  
+  
+## Abstract  
+This study evaluates the role of technical indicators in four categories (trend, momentum, volatility, volume) in predicting changes in SET index movement in multi-class classification framework. Models conducted in this study are logistic regression and decision tree. This predictive model uses training data from 2008 to 2017, validating data in 2018 and testing data in 2019. Specifically, the role of volatility in prediction model is evaluated by using feature importances from decision tree model, and its associated interpretation is done using the results from logistic regression. To start exploring the behavior of this variable, 14-day standard deviation on SET index is chosen as representing volatility under the linear regression framework. However, the result from using SET index does not always generalize to individual stocks due to their heterogeneity. Therefore, the snapshot of volatility behavior in individual stocks for the past few years (2015-2019) is examined by considering historical volume traded as one aspect of heterogeneity. By sorting the stocks on historical volume traded and splitting stocks into ten deciles, linear regression was employed in each group for each year. The exploratory data analysis conducted in this study could explain intuition behind volatility clustering and response to shocks found in SET Index and among individual stocks. This result may give implications on applying technical indicators as trading strategies.  
+  
 ## List of Models  
   
 **1. Predictive Models on SET using technical indicators as features in form of Logistic Linear Regression and Decision Tree**  
