@@ -18,12 +18,16 @@ This study evaluates the role of technical indicators in four categories (trend,
   A. EDA on SET: [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V0.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V0.ipynb)  
   B. Predictive Model on SET: [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V0_Part2_Revised.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V0_Part2_Revised.ipynb)  
   C. Results via visualization: [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V0_Part3_Revised.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V0_Part3_Revised.ipynb)  
+**2. GARCH MODEL**  
+  A. GARCH on SET IDX: [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V0_Part4.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V0_Part4.ipynb)  
+  B. GARCH on Individual Stock (Algorithm): [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/GARCH_individual_stocks.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/GARCH_individual_stocks.ipynb)  
+  C. Visualization: [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/GARCH_Visualization.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/GARCH_Visualization.ipynb)  
   
-**2. Explain volatility clustering and asymmetric responses to shocks in form of Linear Regression on Individual Stocks**  
+**3. Explain volatility clustering and asymmetric responses to shocks in form of Linear Regression on Individual Stocks**  
   A. Preliminary analysis on SET Index: [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V0_Part4.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V0_Part4.ipynb)  
   B. Algorithm itself: [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V1.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V1.ipynb)  
   C. Results via visualization: [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V1_Part2.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V1_Part2.ipynb)  
   
-**3. Exploratory analysis of technical indicators and features across Individual Stocks and across time (2015-2020)**  
+**4. Exploratory analysis of technical indicators and features across Individual Stocks and across time (2015-2020)**  
   A. Algorithm itself: [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V2.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V2.ipynb)  
   B. Results via visualization: [https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V2_Part2.ipynb](https://github.com/GoodDee/Seminar_Project_EE439/blob/main/Model_V2_Part2.ipynb)  
